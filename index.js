@@ -1,4 +1,4 @@
-/* creat an Array from a string */
+/* create an Array from a string */
 
 let string = "cool string";
 
